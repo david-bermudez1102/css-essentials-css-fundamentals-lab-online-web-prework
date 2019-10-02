@@ -8,7 +8,7 @@ header {
 }
 
 #featured-property{
-
+  display: block;
   width: 100%;
   text-align: center;
 }
