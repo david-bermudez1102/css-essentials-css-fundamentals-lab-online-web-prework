@@ -8,12 +8,13 @@ header {
 }
 
 #featured-property{
-  display: flex;
+
   width: 100%;
   text-align: center;
-  align-content: center;
 }
 
 #featured-property p{
+  display: flex;
   width:800px;
+  align-self: center;
 }
