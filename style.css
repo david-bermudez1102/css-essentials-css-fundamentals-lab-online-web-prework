@@ -15,7 +15,5 @@ header {
 }
 
 #featured-property p{
-  display: flex;
   width:800px;
-  align-self: center;
 }
