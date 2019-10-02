@@ -20,8 +20,4 @@ header {
 }
 
 #featured-property figure figcaption{
-  width: 100%;
-  align-content : center;
-  border: 1px solid blue;
-  -webkit-align-content: center;
-}
+display: flex;
