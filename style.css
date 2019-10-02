@@ -23,7 +23,7 @@ header {
   -webkit-align-content: center;
 }
 
-#featured-property figure figcaption{}
+#featured-property figure figcaption{
   width: 100%;
   align-content : center;
   border: 1px solid blue;
