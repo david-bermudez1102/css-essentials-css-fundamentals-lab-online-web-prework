@@ -9,10 +9,11 @@ header {
 
 #featured-property{
   width: 100%;
+  align-items: center;
 }
 
 
 #featured-property figure{
   width: 100%;
-  align-items: center;
+
 }
