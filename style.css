@@ -11,9 +11,11 @@ header {
   width: 100%;
 }
 
-
 #featured-property figure{
-  display: flex;
   width: 100%;
-  align-content: center;
+}
+
+#featured-property figure img{
+  display: flex;
+align-self: center;
 }
