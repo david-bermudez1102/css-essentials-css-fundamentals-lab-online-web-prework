@@ -6,12 +6,3 @@ body {
 header {
   text-align: center;
 }
-
-#featured-property{
-  flex-wrap: wrap;
-    display: flex;
-  width: 100%;
-  align-items: center;
-  border: 1px solid blue;
-  -webkit-align-content: center;
-}
