@@ -10,7 +10,7 @@ header {
 #featured-property{
   display: flex;
   width: 100%;
-  align-items: center;
+  align-content: center;
 }
 
 
