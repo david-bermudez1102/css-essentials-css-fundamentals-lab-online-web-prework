@@ -13,4 +13,5 @@ header {
   width: 100%;
   align-items: center;
   border: 1px solid blue;
+  -webkit-align-content: center;
 }
