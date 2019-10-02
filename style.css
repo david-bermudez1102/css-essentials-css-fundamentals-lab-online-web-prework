@@ -8,7 +8,7 @@ header {
 }
 
 header a{
-  background: grey;
+  background: gray;
 }
 #featured-property{
   display: flex;
