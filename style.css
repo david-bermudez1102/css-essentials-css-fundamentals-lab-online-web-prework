@@ -8,18 +8,6 @@ header {
 }
 
 #featured-property{
-  position: relative;
-  flex-wrap: wrap;
-    display: flex;
   width: 100%;
-  align-content : center;
-  border: 1px solid blue;
-  -webkit-align-content: center;
-}
-#featured-property figure{
-    display: flex;
-}
-
-#featured-property figure figcaption{
-display: flex;
+  text-align: center;
 }
