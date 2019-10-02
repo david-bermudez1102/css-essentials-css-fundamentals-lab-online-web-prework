@@ -21,4 +21,5 @@ header {
 
 #details{
   display: flex;
+  width: 100%;
 }
