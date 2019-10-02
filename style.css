@@ -24,3 +24,7 @@ header {
   width: 100%;
   justify-content: center;
 }
+
+#details div{
+  width: 25%;
+}
