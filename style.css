@@ -8,5 +8,6 @@ header {
 }
 
 #featured-property figure{
+  width: 100%
   align-content: center;
 }
